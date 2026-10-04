@@ -4,4 +4,4 @@
 window.APP_URL = 'https://script.google.com/macros/s/AKfycbwksf10ME7ZuqGgQPsg-z1oxBftsFwBIzqZ9m3nTjDwzT16UzJAFFd-HJZobLrVSPsO/exec';
 
 /* اسم المحل (بيظهر في عنوان التاب) */
-window.STORE_NAME = 'نظام التقسيط';
+window.STORE_NAME = 'الصيفي للاجهزة';
